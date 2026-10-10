@@ -79,8 +79,6 @@ git/
 qubproxy/
 qub-engagement/
 test-liv/
-*.docx
-*.pdf
 *.zip
 *.tar
 *.gz
@@ -98,10 +96,6 @@ CSCexecution time.txt
 UpgradeLog.htm
 ProxyURL.txt
 cd
-40295919.docx
-40295919_A2.docx
-40295919_A2.pdf
-G Multi-Vendor.docx
 ~$295919_A2.docx
 
 # Extra utility / environment clutter

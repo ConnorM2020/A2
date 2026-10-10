@@ -1,0 +1,122 @@
+# OS / editor clutter
+.DS_Store
+Thumbs.db
+.vscode/
+.vs/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+ENV/
+
+# Node / frontend
+node_modules/
+.npm/
+.pnpm-store/
+
+# .NET / C# build outputs
+bin/
+obj/
+*.dll
+*.pdb
+*.exe
+*.cache
+*.log
+*.user
+*.suo
+*.db
+*.db-shm
+*.db-wal
+
+# Java / PHP / Composer caches
+vendor/
+composer.lock
+phpunit.xml.dist
+
+# Go
+*.exe
+*.out
+*.test
+
+# Build / generated artifacts
+build/
+dist/
+out/
+coverage/
+*.tmp
+*.bak
+*.orig
+
+# Project-specific generated files
+service_monitoring_log.txt
+*.log
+*.json
+*.deb
+*.dll
+*.so
+*.dylib
+*.a
+*.o
+*.lib
+
+# Duplicate / backup folders and archive artifacts
+Backup/
+A2 Brief/
+failure - copy/
+qub-monitor - copy/
+qub-monitor rename/
+qub-proxy-original/
+qubengage-sort_Original/
+git/
+qubproxy/
+qub-engagement/
+test-liv/
+*.docx
+*.pdf
+*.zip
+*.tar
+*.gz
+*.7z
+
+# Temporary / scratch files from assignment workspace
+~$
+~WRL*
+*.tmp
+old monitor.txt
+old total hours dockerfile.txt
+all threads.txt
+engagment yml file new.txt
+CSCexecution time.txt
+UpgradeLog.htm
+ProxyURL.txt
+cd
+40295919.docx
+40295919_A2.docx
+40295919_A2.pdf
+G Multi-Vendor.docx
+~$295919_A2.docx
+
+# Extra utility / environment clutter
+.git/
+*.local
+*.orig
+*.rej
+
+# Keep only source / configuration files you actually want in git
+# The following directories are intentionally ignored because they are generated or duplicated workspace artifacts:
+# .venv/
+# .vs/
+# .vscode/
+# node_modules/
+# vendor/
+# bin/
+# obj/
+# __pycache__/

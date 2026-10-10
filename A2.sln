@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "qub-engagement", "qub-engagement", "{D3FDAAE2-B154-4EE5-BC4B-53F42F32BB97}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "stEngage", "qub-engagement\src\stEngage.csproj", "{F8E1F1CC-B31E-465C-99DF-1929DE103578}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8E1F1CC-B31E-465C-99DF-1929DE103578}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8E1F1CC-B31E-465C-99DF-1929DE103578}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8E1F1CC-B31E-465C-99DF-1929DE103578}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8E1F1CC-B31E-465C-99DF-1929DE103578}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F8E1F1CC-B31E-465C-99DF-1929DE103578} = {D3FDAAE2-B154-4EE5-BC4B-53F42F32BB97}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {394952B8-B7B7-4E54-9503-7C72AE6FCB24}
+	EndGlobalSection
+EndGlobal
